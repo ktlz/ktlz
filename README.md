@@ -5,7 +5,6 @@
 I’m a passionate Frontend Engineer with a strong focus on creating accessible, performant, and user-friendly web applications. With hands-on experience in React, Next.js, and Apollo GraphQL, I bring ideas to life through clean code and thoughtful design.
 
 🚀 About Me
-💻 Currently working at Zoola Tech
 🧠 Constantly learning and exploring new technologies to sharpen my skills.
 📚 In my free time, I enjoy reading thought-provoking books and solving coding challenges.
 
