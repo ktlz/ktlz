@@ -21,4 +21,3 @@ LinkedIn: www.linkedin.com/in/kateryna-shulha-3872401b1
 Email: katya.llazorenko@gmail.com
 
 Feel free to connect, collaborate, or explore my repositories for more!
-Let me know if you’d like to add any personal touches or highlight other aspects!
